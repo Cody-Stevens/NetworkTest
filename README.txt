@@ -1,3 +1,3 @@
 NetworkTest for SolaceVR
 
-ClientBuild 0.2
+ClientBuild 0.4
